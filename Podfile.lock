@@ -1,0 +1,16 @@
+PODS:
+  - YLNetWorking (0.1.0)
+
+DEPENDENCIES:
+  - YLNetWorking (from `MyPod/YLNetWorking`)
+
+EXTERNAL SOURCES:
+  YLNetWorking:
+    :path: MyPod/YLNetWorking
+
+SPEC CHECKSUMS:
+  YLNetWorking: 32b358c24b86edbecc9b5573d643328a7c6cf2c7
+
+PODFILE CHECKSUM: f12dbb779ec9a9a90606c637ba6fff35c16898c9
+
+COCOAPODS: 1.6.2
